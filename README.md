@@ -34,8 +34,8 @@ I am actively seeking **research collaborations**, **PhD opportunities**, and **
 
 | Degree | Institution | Duration | CGPA |
 |--------|-------------|----------|------|
-| **M.Tech — Data Science** | [University Name] | 2024 – Present | [X.XX] |
-| **B.E. — Electronics & Communication Engineering** | [University Name] | [Year] – [Year] | [X.XX] |
+| **M.Tech — Data Science** | [JSS Science And Technology University] | 2024 – Present | [9.23] |
+| **B.E. — Electronics & Communication Engineering** | [JSS Science And Technology University] | [2020] – [2024] | [8.33] |
 
 <details>
 <summary>📚 View Coursework Details</summary>
@@ -197,16 +197,6 @@ Pandas · NumPy · Matplotlib · Seaborn (Advanced) · Jupyter (Advanced) · Apa
 ### 🔌 Hardware & Embedded
 
 Arduino (Advanced) · Raspberry Pi (Advanced) · STM32 (Intermediate) · FPGA (Intermediate) · PCB Design (Basic-Intermediate)
-
----
-
-### 🚀 DevOps & Tooling
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-Git/GitHub (Advanced) · Docker (Intermediate) · Linux/Unix (Intermediate) · VS Code · PyCharm · LaTeX (Intermediate)
 
 ---
 
