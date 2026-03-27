@@ -1,0 +1,250 @@
+{
+  "profile": {
+    "name": "Harshith Prashanth",
+    "username": "Harshithprashanth",
+    "title": "Electronics & Communication Engineer | M.Tech Data Science Scholar | LLM Researcher",
+    "tagline": "Bridging hardware intelligence, data-driven insights, and large language model innovation",
+    "location": "[PLACEHOLDER: City, Country]",
+    "email": "[PLACEHOLDER: your.email@domain.com]",
+    "urls": {
+      "github": "https://github.com/Harshithprashanth",
+      "linkedin": "https://linkedin.com/in/[PLACEHOLDER: LinkedIn-username]",
+      "huggingface": "https://huggingface.co/[PLACEHOLDER: HF-username]",
+      "googleScholar": "https://scholar.google.com/citations?user=[PLACEHOLDER]",
+      "researchGate": "https://researchgate.net/profile/[PLACEHOLDER]",
+      "orcid": "https://orcid.org/[PLACEHOLDER]"
+    }
+  },
+  "llmSkills": {
+    "frameworks": [
+      {"name": "LangChain", "proficiency": "Advanced", "badge_color": "1C3C3C"},
+      {"name": "LangGraph", "proficiency": "Advanced", "badge_color": "1C3C3C"},
+      {"name": "LlamaIndex", "proficiency": "Intermediate-Advanced", "badge_color": "FF6B35"},
+      {"name": "LangSmith", "proficiency": "Intermediate-Advanced", "badge_color": "1C3C3C"},
+      {"name": "DSPy", "proficiency": "Intermediate", "badge_color": "6C63FF"},
+      {"name": "Semantic Kernel", "proficiency": "Basic-Intermediate", "badge_color": "5C2D91"}
+    ],
+    "fineTuning": [
+      {"name": "LoRA", "proficiency": "Advanced"},
+      {"name": "QLoRA", "proficiency": "Advanced"},
+      {"name": "Full Fine-tuning", "proficiency": "Advanced"},
+      {"name": "PEFT", "proficiency": "Advanced"},
+      {"name": "TRL", "proficiency": "Advanced"},
+      {"name": "DPO", "proficiency": "Intermediate-Advanced"},
+      {"name": "RLHF", "proficiency": "Intermediate"}
+    ],
+    "llmops": [
+      {"name": "Weights & Biases", "proficiency": "Intermediate-Advanced"},
+      {"name": "MLflow", "proficiency": "Intermediate-Advanced"},
+      {"name": "BentoML", "proficiency": "Intermediate"},
+      {"name": "FastAPI", "proficiency": "Intermediate-Advanced"},
+      {"name": "GitHub Actions", "proficiency": "Intermediate"},
+      {"name": "DVC", "proficiency": "Intermediate"},
+      {"name": "Prefect", "proficiency": "Basic-Intermediate"},
+      {"name": "Apache Airflow", "proficiency": "Basic-Intermediate"}
+    ],
+    "ragTools": [
+      {"name": "ChromaDB", "proficiency": "Advanced"},
+      {"name": "FAISS", "proficiency": "Advanced"},
+      {"name": "Pinecone", "proficiency": "Intermediate-Advanced"},
+      {"name": "Weaviate", "proficiency": "Intermediate"},
+      {"name": "HyDE", "proficiency": "Advanced"},
+      {"name": "RAGAS", "proficiency": "Intermediate-Advanced"}
+    ],
+    "modelFamilies": [
+      "GPT-3.5-turbo", "GPT-4", "GPT-4o",
+      "Claude Haiku", "Claude Sonnet", "Claude Opus",
+      "Gemini Pro", "Gemini Flash",
+      "Llama-2-7B", "Llama-2-13B", "Llama-3-8B",
+      "Mistral-7B", "Mixtral-8x7B",
+      "Phi-2", "Phi-3-mini",
+      "CodeLlama-7B", "DeepSeek-Coder-7B"
+    ],
+    "evaluationFrameworks": [
+      {"name": "RAGAS", "proficiency": "Intermediate-Advanced"},
+      {"name": "DeepEval", "proficiency": "Intermediate"},
+      {"name": "TruLens", "proficiency": "Intermediate"},
+      {"name": "LLM-as-Judge", "proficiency": "Advanced"}
+    ],
+    "localLLMTools": [
+      {"name": "Ollama", "proficiency": "Intermediate-Advanced"},
+      {"name": "vLLM", "proficiency": "Intermediate"},
+      {"name": "llama.cpp", "proficiency": "Intermediate"},
+      {"name": "TGI", "proficiency": "Intermediate"},
+      {"name": "LiteLLM", "proficiency": "Intermediate"}
+    ]
+  },
+  "researchInterests": [
+    {
+      "id": "llm_domain_adaptation",
+      "title": "LLMs for Scientific & Engineering Domains",
+      "tags": ["LLM", "fine-tuning", "domain adaptation", "RAG", "evaluation"],
+      "priority": 1
+    },
+    {
+      "id": "llmops",
+      "title": "LLMOps & Production AI Systems",
+      "tags": ["LLMOps", "RAG", "monitoring", "deployment", "guardrails"],
+      "priority": 2
+    },
+    {
+      "id": "signal_llm",
+      "title": "Intelligent Signal Processing with LLMs",
+      "tags": ["signal processing", "multi-modal", "time-series", "transformers"],
+      "priority": 3
+    },
+    {
+      "id": "edge_ai",
+      "title": "Edge AI & TinyML",
+      "tags": ["edge AI", "TinyML", "quantization", "Raspberry Pi", "FPGA"],
+      "priority": 4
+    },
+    {
+      "id": "biomedical",
+      "title": "Biomedical Signal Analysis",
+      "tags": ["ECG", "EEG", "deep learning", "healthcare AI"],
+      "priority": 5
+    },
+    {
+      "id": "iot",
+      "title": "IoT Data Analytics",
+      "tags": ["IoT", "MQTT", "anomaly detection", "predictive maintenance"],
+      "priority": 6
+    }
+  ],
+  "projects": {
+    "categories": [
+      {
+        "id": "llm_llmops",
+        "title": "LLM & LLMOps Projects",
+        "emoji": "🤖",
+        "projects": [
+          {
+            "id": "rag_scientific",
+            "title": "Domain-Adaptive RAG System for Scientific Literature",
+            "domain": "LLMOps + RAG + NLP",
+            "status": "complete",
+            "metrics": {
+              "faithfulness": 0.91,
+              "answer_relevancy": 0.88,
+              "context_precision": 0.85
+            },
+            "tech": ["Python", "LangChain", "ChromaDB", "OpenAI API", "RAGAS", "FastAPI", "Docker"],
+            "repo": "[PLACEHOLDER: GitHub URL]"
+          },
+          {
+            "id": "qlora_pipeline",
+            "title": "LLM Fine-tuning Pipeline for Technical Domain Adaptation",
+            "domain": "LLMOps + LLM Fine-tuning",
+            "status": "complete",
+            "metrics": {
+              "vram_reduction_percent": 65,
+              "performance_retention_percent": 97,
+              "inference_speedup": 3.2
+            },
+            "tech": ["PyTorch", "PEFT", "TRL", "BitsAndBytes", "W&B", "MLflow", "Ollama"],
+            "repo": "[PLACEHOLDER: GitHub URL]"
+          },
+          {
+            "id": "multi_agent",
+            "title": "Multi-Agent LLM Orchestration Framework",
+            "domain": "LLMOps + Agentic AI",
+            "status": "complete",
+            "metrics": {
+              "workflow_time_reduction_percent": 78
+            },
+            "tech": ["LangChain", "LangGraph", "LangSmith", "OpenAI API", "FastAPI", "Redis", "Docker"],
+            "repo": "[PLACEHOLDER: GitHub URL]"
+          },
+          {
+            "id": "iot_llm",
+            "title": "LLM-Powered IoT Anomaly Detection & NL Interface",
+            "domain": "LLMOps + IoT + Edge AI",
+            "status": "complete",
+            "metrics": {
+              "response_latency_seconds": 1.7,
+              "query_accuracy_percent": 93
+            },
+            "tech": ["Ollama", "Mistral-7B", "LangChain", "MQTT", "InfluxDB", "Raspberry Pi"],
+            "repo": "[PLACEHOLDER: GitHub URL]"
+          },
+          {
+            "id": "llm_eval",
+            "title": "LLM Evaluation & Benchmarking Suite",
+            "domain": "LLMOps + LLM Evaluation",
+            "status": "complete",
+            "metrics": {
+              "models_evaluated": 12,
+              "task_categories": 8
+            },
+            "tech": ["DeepEval", "RAGAS", "TruLens", "W&B", "Streamlit", "Docker"],
+            "repo": "[PLACEHOLDER: GitHub URL]"
+          }
+        ]
+      },
+      {
+        "id": "signal_ml",
+        "title": "Signal Processing & ML Projects",
+        "emoji": "📡",
+        "projects": [
+          {
+            "id": "fault_detection",
+            "title": "Intelligent Fault Detection in Industrial IoT",
+            "status": "complete",
+            "metrics": {"accuracy_percent": 94.7, "false_positive_reduction_percent": 23}
+          },
+          {
+            "id": "ecg_denoising",
+            "title": "ECG Signal Denoising Using Deep Learning",
+            "status": "complete",
+            "metrics": {"snr_improvement_db": 18.3}
+          }
+        ]
+      }
+    ]
+  },
+  "featureToggles": {
+    "showGitHubStats": true,
+    "showTopLanguages": true,
+    "showStreakStats": true,
+    "showTrophies": true,
+    "showWakatime": false,
+    "showCurrentlyWorkingOn": true,
+    "showCertifications": true,
+    "showResearchHighlights": true,
+    "showLLMExpertiseTable": true,
+    "autoUpdateReadme": true
+  },
+  "theme": {
+    "statsTheme": "tokyonight",
+    "primaryColor": "6C63FF",
+    "secondaryColor": "1C3C3C",
+    "accentColor": "FFD21E"
+  },
+  "apiKeys": {
+    "note": "SECURITY: Never commit actual API keys to this file. Use environment variables or GitHub Secrets.",
+    "githubToken": "${GITHUB_TOKEN}",
+    "openaiApiKey": "${OPENAI_API_KEY}",
+    "anthropicApiKey": "${ANTHROPIC_API_KEY}",
+    "huggingfaceToken": "${HUGGINGFACE_TOKEN}"
+  },
+  "readme": {
+    "lastUpdated": "March 2026",
+    "version": "2.0.0",
+    "autoGenerate": true,
+    "sections": [
+      "header",
+      "about",
+      "education",
+      "researchInterests",
+      "technicalSkills",
+      "llmExpertise",
+      "projects",
+      "githubStats",
+      "certifications",
+      "connect",
+      "currentlyWorkingOn",
+      "footer"
+    ]
+  }
+}

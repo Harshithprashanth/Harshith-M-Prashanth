@@ -1,0 +1,104 @@
+# LLM & LLMOps
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-google-genai>=0.0.6
+langgraph>=0.1.0
+langsmith>=0.1.0
+
+# LLM APIs
+openai>=1.30.0
+anthropic>=0.25.0
+google-generativeai>=0.5.0
+cohere>=5.0.0
+litellm>=1.35.0
+
+# Vector databases & RAG
+chromadb>=0.5.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+pinecone-client>=3.0.0
+
+# HuggingFace ecosystem
+huggingface-hub>=0.23.0
+transformers>=4.41.0
+peft>=0.11.0
+trl>=0.9.0
+bitsandbytes>=0.43.0
+accelerate>=0.30.0
+datasets>=2.19.0
+tokenizers>=0.19.0
+
+# LlamaIndex
+llama-index>=0.10.0
+
+# Deep learning
+torch>=2.3.0
+torchvision>=0.18.0
+
+# LLM evaluation
+ragas>=0.1.9
+deepeval>=0.21.0
+# trulens-eval  # Install separately if needed: pip install trulens-eval
+
+# MLOps & experiment tracking
+mlflow>=2.13.0
+wandb>=0.17.0
+
+# Serving & deployment
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+# bentoml>=1.2.0  # Install separately if needed
+
+# Data science
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.13.0
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+lightgbm>=4.3.0
+optuna>=3.6.0
+
+# Signal processing & audio
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# GitHub & arXiv integrations
+PyGithub>=2.3.0
+arxiv>=2.1.0
+requests>=2.32.0
+
+# IoT & hardware communication
+paho-mqtt>=2.0.0
+influxdb-client>=1.43.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+tqdm>=4.66.0
+pydantic>=2.7.0
+rich>=13.7.0
+typer>=0.12.0
+httpx>=0.27.0
+
+# Notebook & visualisation
+jupyter>=1.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+plotly>=5.21.0
+streamlit>=1.35.0
+
+# Code quality
+black>=24.4.0
+flake8>=7.0.0
+isort>=5.13.0
+mypy>=1.10.0
+pytest>=8.2.0
+pytest-asyncio>=0.23.0
+
+# Documentation
+mkdocs>=1.6.0
+mkdocs-material>=9.5.0
